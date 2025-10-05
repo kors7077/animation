@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "animation", "animation.vcxproj", "{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Debug|x64.ActiveCfg = Debug|x64
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Debug|x64.Build.0 = Debug|x64
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Debug|x86.ActiveCfg = Debug|Win32
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Debug|x86.Build.0 = Debug|Win32
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Release|x64.ActiveCfg = Release|x64
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Release|x64.Build.0 = Release|x64
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Release|x86.ActiveCfg = Release|Win32
+		{82A3CFD1-D3DC-4AFC-9A3D-AE639B7CD076}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8361B7B-8EA2-4943-825D-7F0EC6EF1E0A}
+	EndGlobalSection
+EndGlobal
